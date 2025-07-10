@@ -20,3 +20,7 @@ def analyze_log(file_name):
         print("An I/O error occurred:", e)
 
 
+
+INFO: 2
+WARNING: 1
+ERROR: 2
