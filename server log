@@ -1,0 +1,10 @@
+INFO Application started successfully
+ WARNING Low memory detected (512MB remaining)
+ERROR Failed to connect to database: timeout
+INFO User 'admin' logged in
+ DEBUG Processing request ID 48921
+ ERROR Payment processing failed - invalid card
+ INFO New user registered: john_doe
+ WARNING High CPU usage detected (92%)
+ INFO Database backup completed
+ CRITICAL Disk failure on /dev/sda1
