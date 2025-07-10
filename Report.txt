@@ -1,0 +1,3 @@
+INFO:    4 entries 
+WARNING: 3 entries 
+ERROR:   3 entries 
